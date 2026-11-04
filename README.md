@@ -1,4 +1,4 @@
-##🚀 Generative AI Internship – Codomax Digital Solutions
+🚀 Generative AI Internship – Codomax Digital Solutions
  
  Position: Generative AI Intern
  Company: Codomax Digital Solutions
@@ -7,10 +7,10 @@
  End Date: 02 December 2026
  Mode: Virtual Internship
 
-##🎯 Internship Objective:
+🎯 Internship Objective:
  To gain practical knowledge and hands-on experience in Generative AI, explore modern AI technologies, complete real-  world assignments, and improve technical and problem-solving skills.
 
-##📚 Learning Goals:
+📚 Learning Goals:
  Understand Generative AI fundamentals.
  Explore Large Language Models (LLMs).
  Learn Prompt Engineering.
@@ -18,7 +18,7 @@
  Complete practical assignments and mini-projects.
  Improve Python and AI/ML skills.
 
-##🛠️ Skills to Develop
+🛠️ Skills to Develop:
  Python
  Generative AI
  Prompt Engineering
